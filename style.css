@@ -29,3 +29,13 @@ li {
   color: #000000;
   margin: 30px;
 }
+
+footer {
+  padding: 10px;
+  background-color: black;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+span {
+  margin-left: 250px;
+}
