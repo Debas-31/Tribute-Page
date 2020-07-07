@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+.center {
+  background-color: ffffff;
+}
+p {
+  font-size: 13px;
+  text-align: center;
+  margin-top: ;
+}
+h2 {
+  margin-bottom: 10px;
+}
+h3 {
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  width: 50%;
+  display: block;
+  align-items: center;
+  margin-left: 150px;
+}
+li {
+  font-size: 16px;
+  color: #000000;
+  margin: 30px;
+}
